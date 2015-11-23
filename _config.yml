@@ -1,6 +1,6 @@
 name: JDRP
 favicon: null
-layout_spectrum: 0.21208955300971866
+layout_spectrum: 1
 typography_spectrum: 0.261317205382511
 title: 'JDRP.co - Photo, Video, Web, Social'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#cdccd2'
     - '#f6f6f6'
   brandStrength: 1
-  lightness: 0.053412220906466246
+  lightness: 0.6875
   saturation: 0.8055930943228304
-  rhythmicContrast: 0.35195226944051683
+  rhythmicContrast: 0.5
 purpose: []
