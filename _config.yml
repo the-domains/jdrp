@@ -1,0 +1,28 @@
+name: JDRP
+favicon: null
+layout_spectrum: 0.21208955300971866
+typography_spectrum: 0.261317205382511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9705474409274757
+  lightness: 0.053412220906466246
+  saturation: 0.8055930943228304
+  rhythmicContrast: 0.35195226944051683
+purpose: []
