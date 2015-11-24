@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JDRP.co - Photo, Video, Web, Social]]></title>
         <description><![CDATA[JDRP.co - Photo, Video, Web, Social]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jdrp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 00:07:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 00:08:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jdrp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>null</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ea7feb3-def6-4e19-801b-ec5d1fb460b4.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/jdrp/about/index.html</link>
             <guid isPermaLink="false">b951e06e-6a97-4488-ad94-4577d97dcce8</guid>
-            <pubDate>Tue, 24 Nov 2015 00:07:32 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 00:08:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
